@@ -9,7 +9,7 @@
 
 ## Contact
 
-*Eager to ask a question, have some feedback or you just want to connect?*
+*Eager to ask a question, have some feedback or you just want to tell a funny joke you heard?*
 
-📫 Email me at [sarandi.abel@gmail.com](mailto:sarandi.abel@gmail.com)!\
-🔗 LinkedIn — [linkedin.com/in/abelsarandi/](https://www.linkedin.com/in/abelsarandi/)
+📫 Email me @ [sarandi.abel@gmail.com](mailto:sarandi.abel@gmail.com)\
+🔗 Find me on LinkedIn @ [linkedin.com/in/abelsarandi/](https://www.linkedin.com/in/abelsarandi/)
