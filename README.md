@@ -2,8 +2,7 @@
 
 🤸‍♂️ As an eager 23 year old, I am learning new about software development and information technology everyday and I am fond of it.
 
-✨ My mindset increating any software is to make it clean and maintainable for fellow developers and future expansion.
-
+✨ My mindset increating any software is to make it clean and maintainable for fellow developers and future expansion.\
 👨‍💻 Currently working on a startup project at [loopsio](https://loopsio.com/) with other students and the client directly.\
 📚 Studying at the **University of Strathclyde** in Glasgow, where I am completing my fourth and final year.\
 ⚡ Fun fact: I am obsessed with the beauty of the result of using type systems properly.
