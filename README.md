@@ -1,6 +1,6 @@
 # Hello person 👋🤖
 
-As an eager 23 year old, I am learning new about software development and information technology everyday and I am fond of it.
+🤸‍♂️ As an eager 23 year old, I am learning new about software development and information technology everyday and I am fond of it.
 
 ✨ My mindset increating any software is to make it clean and maintainable for fellow developers and future expansion.
 
