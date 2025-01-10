@@ -1,11 +1,11 @@
 # Hello person 👋🤖
 
-🤸‍♂️ As an eager 23 year old, I am learning new about software development and information technology everyday and I am fond of it.
+🤸‍♂️ As an eager 24 year old, I am learning new about software development and information technology everyday and I am fond of it.
 
 ✨ My mindset increating any software is to make it clean and maintainable for fellow developers and future expansion.\
-👨‍💻 Currently working on a startup project at [loopsio](https://loopsio.com/) with other students and the client directly.\
-📚 Studying at the **University of Strathclyde** in Glasgow, where I am completing my fourth and final year.\
-⚡ Fun fact: I am obsessed with the beauty of the result of using type systems properly.
+👨‍💻 Currently working for [freetobook](https://en.freetobook.com/) creating new experiences and maintaining the system.\
+📚 Graduated from the **University of Strathclyde** in Glasgow with a first class degree in 2024.\
+⚡ Fun fact: I have a tattoo of a simplified CPU on my shoulder.
 
 ## Contact
 
